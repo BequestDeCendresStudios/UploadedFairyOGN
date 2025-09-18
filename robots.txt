@@ -1,0 +1,4 @@
+Sitemap: https://bequestdecendresstudios.github.io/UploadedFairyOGN/
+
+User-agent: *
+Disallow: /

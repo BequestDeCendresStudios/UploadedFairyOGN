@@ -1,2 +1,2 @@
 # UploadedFairyOGN
-A remake of my Uploaded Fairy website.
+Currently rebuilding my webcomic site.
